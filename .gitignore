@@ -1,0 +1,28 @@
+# Ignore Scilab autosave files
+*.sav
+
+# Ignore Scilab backup files
+*~
+
+# Ignore compiled binary files
+*.bin
+*.out
+*.o
+*.dll
+*.so
+*.dylib
+
+# Ignore log files
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore temporary files
+tmp/
+*.tmp
